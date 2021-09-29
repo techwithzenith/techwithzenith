@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @techwithzenith
 - 🤵 I’m a  Blogger | Youtuber
 - 📚 I'm Self Learner | Student of Computer Science 
-- 💻 Honeing Skills in Ethical Hacking | Cyber Security | Programming
-- 🌱 I’m currently learning Basics of Ethical Hacking 
+- 💻 Honeing Skills in Ethical Hacking | Programming
+- 🌱 I’m currently learning Basics of Cyber Security
 - 📫 How to reach me ...
 - Instagram | Youtube | Telegram : @techwithzenith
 - Website : www.techwithzenith.wordpress.com
