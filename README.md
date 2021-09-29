@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techwithzenith
+- 👋 Hi, I’m Zenith
 - 🤵 I’m a  Blogger | Youtuber
 - 📚 I'm Self Learner | Student of Computer Science 
 - 💻 Honeing Skills in Ethical Hacking | Programming
