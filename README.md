@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @techwithzenith
-- 📚 I'm Self Learner
-- 🤵 I’m a Student Computer Science
+- 📚 I'm Self Learner | Student of Computer Science
+- 🤵 I’m a  Blogger | Youtuber 
 - 💻 I’m interested in Ethical Hacking | Cyber Security | Programming
 - 🌱 I’m currently learning Basics of Ethical Hacking 
 - 📫 How to reach me ...
