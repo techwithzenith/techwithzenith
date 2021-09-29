@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zenith
 - 🤵 I’m a  Blogger | Youtuber
 - 📚 I'm Self Learner | Student of Computer Science 
-- 💻 Honeing Skills in Ethical Hacking | Programming
+- 💻 Honeing my skills in Ethical Hacking | Programming
 - 🌱 I’m currently learning Basics of Cyber Security
 - 📫 How to reach me ...
 - Instagram | Youtube | Telegram : @techwithzenith
