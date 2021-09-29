@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @techwithzenith
-- 📚 I'm Self Learner | Student of Computer Science
-- 🤵 I’m a  Blogger | Youtuber 
-- 💻 I’m interested in Ethical Hacking | Cyber Security | Programming
+- 🤵 I’m a  Blogger | Youtuber
+- 📚 I'm Self Learner | Student of Computer Science 
+- 💻 Honeing Skills in Ethical Hacking | Cyber Security | Programming
 - 🌱 I’m currently learning Basics of Ethical Hacking 
 - 📫 How to reach me ...
+- Instagram | Youtube | Telegram : @techwithzenith
+- Website : www.techwithzenith.wordpress.com
 
 <!---
 techwithzenith/techwithzenith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
